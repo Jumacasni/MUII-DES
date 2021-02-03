@@ -16,3 +16,9 @@ Asignatura de Desarrollo y Evaluación de Sistemas de Software Interactivos (DES
 * [ejeS4_WireFlow](teoria/ejeS4_WireFlow.pdf): Diagrama WireFlow de la Play Store
 * [ejeS4_AppMovil](teoria/ejeS4_AppMovil.pdf): Diferencias entre una web para reservar vuelos y su versión en Android
 * [ejeT4_Gestalt](teoria/ejeT4_Gestalt.pdf): Principios Gestalt aplicados a la web Airbnb
+
+## Prácticas
+
+Para las prácticas se ha desarrollado **FindRestaurants**, cuya información y desarrollo se encuentra en otro repositorio:
+
+* [FindRestaurants](https://github.com/Jumacasni/FindRestaurants/blob/main/README.md)
